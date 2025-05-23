@@ -25,11 +25,11 @@ This repository gathers **concrete implementations and usage examples** of the A
 ---
 
 ## 📦 Included Frameworks & Examples
-🪄 Agno Agents  
-📚 LlamaIndex 
-🧠 LangGraph 
-🛠️ AutoGen
-📊 CrewAI  
+- 🪄 Agno Agents  
+- 📚 LlamaIndex 
+- 🧠 LangGraph 
+- 🛠️ AutoGen
+- 📊 CrewAI  
 
 ---
 
