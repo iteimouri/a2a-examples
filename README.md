@@ -29,7 +29,8 @@ This repository gathers **concrete implementations and usage examples** of the A
 - 📚 LlamaIndex 
 - 🧠 LangGraph 
 - 🛠️ AutoGen
-- 📊 CrewAI  
+- 📊 CrewAI
+- 💡 Pydantic AI
 
 ---
 
