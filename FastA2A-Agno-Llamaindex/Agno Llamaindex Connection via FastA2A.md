@@ -1,7 +1,3 @@
-Below is a markdown explanation that covers how the workers and servers work together in this repository, along with an explanation of the orchestrator examples and instructions on how to run them from the command line.
-
-----
-
 # Overview
 
 This repository demonstrates a multi-agent architecture built with the FastA2A framework. The design consists of different worker implementations and service servers that handle tasks asynchronously. There are also several orchestrator examples which coordinate the work of different agents (or services) to produce a final result.
