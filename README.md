@@ -31,6 +31,7 @@ This repository gathers **concrete implementations and usage examples** of the A
 - 🛠️ AutoGen
 - 📊 CrewAI
 - 💡 Pydantic AI
+- 📖 OpenAI Agent SDK
 
 ---
 
